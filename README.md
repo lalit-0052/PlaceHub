@@ -1,4 +1,5 @@
 # College Placement Management System
+# Connecting Talent with Opportunities
 
 ## Table of Contents
 - [College Placement Management System](#college-placement-management-system)
