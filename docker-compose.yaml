@@ -63,4 +63,4 @@ volumes:
   mongodb_data:
     driver: local
   mongodb_config:
-    driver: local
+    driver: local ..
