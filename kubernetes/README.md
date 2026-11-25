@@ -7,7 +7,7 @@ This repository contains Kubernetes manifests for deploying a **CPMS (College Pr
 
 ---
 
-## 🗂 Folder Structure
+## 🗂 Folder Structure:
 
 ```
 kubernetes/
